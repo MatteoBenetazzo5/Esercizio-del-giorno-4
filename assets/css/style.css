@@ -1,0 +1,146 @@
+/* IMPOSTAZIONI GENERALI */
+head {
+  text-align: center
+}
+/* HEADER */
+header {
+    width: 300px;
+    height: 200px;
+    padding: 40px;
+    border: 1px solid black;
+    margin: 70px;
+    background-color:lightskyblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* MAIN */
+main {
+    width: 300px;
+    height: 1700px;
+    padding: 40px;
+    border: 1px solid black;
+    margin: 70px;
+    background-color:white;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* ELEMENTI NEL MAIN - ARTICLE */
+body {
+    background-image:url(../img/sfondo.png);
+}
+
+h1 {
+    font-weight: bold;
+  margin: 0,5em 0;
+
+}
+
+
+/* TABELLE */
+table {
+
+}
+/* FORM */
+form {
+
+}
+/* ELEMENTI NELL' ASIDE */
+#Novità {
+    width: 280px;
+    height: 140px;
+    padding: 8px;
+    border: 1px solid black;
+    margin: 2px;
+    background-color:lightgrey;
+}
+
+#Validate{
+    width: 280px;
+    height: 100px;
+    padding: 8px;
+    border: 1px solid black;
+    margin: 2px;
+    background-color:lightgrey;
+}
+
+#Correct {
+    width: 280px;
+    height: 100px;
+    padding: 8px;
+    border: 1px solid black;
+    margin: 2px;
+    background-color:lightgrey;
+}
+
+#Minus{
+    width: 280px;
+    height: 100px;
+    padding: 8px;
+    border: 1px solid black;
+    margin: 2px;
+    background-color:lightgrey;
+}
+
+
+/* FOOTER */
+footer {
+    width: 300px;
+    height: 60px;
+    padding: 30px;
+    border: 1px solid black;
+    margin: 70px;
+    background-color:lightblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+  margin: 0.5em 0; /* 1em sopra e sotto, 0 dx e sx */
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+p {
+  margin: 0.25em 0;
+}
+
+ol,
+ul {
+  padding-left: 2em;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+table {
+  margin: 1em 0;
+}
+
+/* stili specifici per questo documento */
+header {
+  text-align: center;
+}
